@@ -1,1 +1,6 @@
-{}
+{
+  "registry.terraform.io/hashicorp/github": {
+    "hash": "h1:tScPeRz9dvRO7Mzh74iB7sGQ+HDjK24t5LBmq1EuQxY=",
+    "version": "3.1.0"
+  }
+}
